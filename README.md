@@ -11,8 +11,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on OpenGL project
-- 🌱 I’m currently learning OpenGL and Computer network
+- 🔭 I’m currently working on High Performance Computing (HPC) project
+- 🌱 I’m currently learning mpi and openmp
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
